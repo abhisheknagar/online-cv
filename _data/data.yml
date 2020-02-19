@@ -55,16 +55,13 @@ education:
       details: |
         
 experiences:
-    - role: Dy Coordinator
+    - role: Dy Coordinator UPSEE 2019 & 2020
       time: 2018 - Present
       company: Uttar Pradesh State Entrance Examination
-      details: |
-          - Bullet point
-    - role: Asst Coordinator
+    - role: Asst Coordinator UPSEE 2018
       time: 2018 - 2019
       company: Uttar Pradesh State Entrance Examination
-      details: |
-          - Bullet point
+
     - role: System Manager
       time: 2017 - Present
       company: Institute of Engineering & Technology, Lucknow
