@@ -55,19 +55,18 @@ education:
       details: |
         
 experiences:
-    - role: Dy Coordinator UPSEE 2019 & 2020
-      time: 2018 - Present
-      company: Uttar Pradesh State Entrance Examination
-    - role: Asst Coordinator UPSEE 2018
-      time: 2018 - 2019
-      company: Uttar Pradesh State Entrance Examination
-
     - role: System Manager
       time: 2017 - Present
       company: Institute of Engineering & Technology, Lucknow
       details: |
           - Co-coordinator TEQIP III
           - Co-convener DDQIP
+    - role: Dy Coordinator UPSEE 2019 & 2020
+      time: 2018 - Present
+      company: Uttar Pradesh State Entrance Examination
+    - role: Asst Coordinator UPSEE 2018
+      time: 2018 - 2019
+      company: Uttar Pradesh State Entrance Examination
     - role: Programme Officer
       time: 2013 - 2017
       company: Vardhmaman Mahaveer Open University
@@ -80,15 +79,38 @@ experiences:
           - Nodal Officer Rajasthan Govenment Click Scheme
           - Nodal Officer Rajasthan Governmnet Sampark
           - Nodal Officer University Website
+    - role: Programmer
+      time: 2010 - 2013
+      company: Uttarakhand Open University, Haldwani
+    - role: Web Administrator
+      time: 2009-2010
+      company: Symbiosis Society, Pune
+    - role: Jr Engineer
+      time: 2009-2009
+      company: Maybole Technologies, Pune
+
+
     
 projects:
     title: Projects
     intro: >
       
     assignments:
+      - title: Commerce CCAvenue Payment Gateway
+        link: "https://www.drupal.org/project/commerce_ccavenue"
+        tagline: "The CCAvenue Payment Gateway module implements the CCAvenue payment processing service (www.ccavenue.com) in Drupal Commerce."
+
       - title: Wire2Air SMS Gateway
         link: "https://www.drupal.org/project/sms_wire2air"
         tagline: "The Project aims at integrating Wire2Air as a SMS Gateway for SMS Framework."
+
+      - title: My SMS Mantra SMS Gateway
+        link: "https://www.drupal.org/project/sms_mysmsmantra"
+        tagline: "The Project aims at integrating My SMS Mantra as a SMS Gateway for SMS Framework."
+
+      - title: SMS List
+        link: "https://www.drupal.org/project/sms_list"
+        tagline: "he SMS List Module will help Maintain a List of Users with active subscription and send them SMS using the smsframework Module.."
 
       - title: Drupal Hindi Localization Project
         link: "https://localize.drupal.org/translate/languages/hi/"
@@ -126,6 +148,12 @@ skills:
 
       - name: Web Radio
         level: 95%
+      
+      - name: Web Servers
+        level: 90%
+
+      - name: Networking
+        level: 80%
 
 footer: >
 
