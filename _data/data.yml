@@ -70,25 +70,37 @@ experiences:
       time: 2017 - Present
       company: Institute of Engineering & Technology, Lucknow
       details: |
-          - Bullet point
-          - Bullet point
+          - Co-coordinator TEQIP III
+          - Co-convener DDQIP
     - role: Programme Officer
       time: 2013 - 2017
       company: Vardhmaman Mahaveer Open University
       details: |
-          - Bullet point
-          - Bullet point
+          - Officer Incharge Educational Media Production Studio
+          - Chief Information Security Officer
+          - Nodal Officer Integrated Higher Education Portal
+          - Nodal Officer E-Governance Model Study & Implementation 
+          - Nodal Officer Rajasthan Higher Education Portal
+          - Nodal Officer Rajasthan Govenment Click Scheme
+          - Nodal Officer Rajasthan Governmnet Sampark
+          - Nodal Officer University Website
     
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      .
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Wire2Air SMS Gateway
+        link: "https://www.drupal.org/project/sms_wire2air"
+        tagline: "The Project aims at integrating Wire2Air as a SMS Gateway for SMS Framework."
+
+      - title: Drupal Hindi Localization Project
+        link: "https://localize.drupal.org/translate/languages/hi/"
+        tagline: "Administrator for Drupal Hindi Localization Project."
+
+      - title: Drupal Marathi Localization Project
+        link: "https://localize.drupal.org/translate/languages/mr/"
+        tagline: "Administrator for Drupal Marathi Localization Project."
 
      
 publications:
@@ -96,10 +108,10 @@ publications:
     intro: |
       
     papers:
-      - title: The Art of Computer Programming
+      - title:  Virtualization  A step towards Green IT
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Nagar Abhishek. Pillai Samaya, Bhattacharjee Siddharth
+        conference: GIT2010 Green IT & Open Source, 2010
 
    
 
