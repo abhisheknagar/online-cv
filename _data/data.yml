@@ -54,7 +54,7 @@ education:
       university: Banaras Hindu University
       time: 2003 - 2006
       details: |
-        .
+        
 experiences:
     - role: Dy Coordinator
       time: 2018 - Present
@@ -88,7 +88,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      .
+      
     assignments:
       - title: Wire2Air SMS Gateway
         link: "https://www.drupal.org/project/sms_wire2air"
