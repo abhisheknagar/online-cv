@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: abhishek@kashipur.in
-    phone: 091 95 DOT NAGAR
+    phone: +91 95 DOT NAGAR
     website: abhishek.nagar.me #do not add http://
     linkedin: abhisheknagar
     github: abhisheknagar
@@ -32,14 +32,11 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Localization
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: Drupal
+        link: https://www.drupal.org/
 
 career-profile:
     title: Career Profile
@@ -55,24 +52,13 @@ education:
       university: Symbiosis International University
       time: 2007 - 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: B Com
+        Master of Science.
+          - Dissertation on Open Source Content Management Systems
+    - degree: Graduation
       university: Banaras Hindu University
       time: 2003 - 2006
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        .
 experiences:
     - role: System Manager
       time: 2017 - Present
